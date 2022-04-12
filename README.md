@@ -6,7 +6,7 @@ I’m currently studying computer science, game development, and mathematics as 
 
 I'm majoring in computer science, with a consentration on game design & development, and I'm minoring Mathematics.
 
-I’m looking to collaborate on game projects from indie to triple-A, and software products small and large.
+I’m looking to collaborate on game projects from indie to AAA, and software projects small and large.
 
 ###### You can reach me at tucker.sandin@gmail.com if you'd like to contact me.
 
